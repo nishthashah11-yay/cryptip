@@ -1,5 +1,5 @@
 
-# 🌐 VolatiX AI
+# 🌐 CRYPTIP
 
 ## Crypto Volatility Visualizer  
 ### Simulating Market Swings with Mathematics for AI and Python
